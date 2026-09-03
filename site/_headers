@@ -2,9 +2,11 @@
   X-Robots-Tag: noindex, nofollow, noarchive
 
 /context/*
+  Content-Type: text/plain; charset=utf-8
   Cache-Control: no-store, no-cache, must-revalidate, max-age=0
 
 /context/chats/*
+  Content-Type: text/plain; charset=utf-8
   Cache-Control: no-store, no-cache, must-revalidate, max-age=0
 
 /llms.txt
