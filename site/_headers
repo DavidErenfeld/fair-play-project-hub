@@ -1,11 +1,27 @@
 /*
   X-Robots-Tag: noindex, nofollow, noarchive
 
-/context/*
+/context/chats/test.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+
+/context/chats/test.html
+  Content-Type: text/html; charset=utf-8
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+
+/context/chats/test.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+
+/context/chats/test
   Content-Type: text/plain; charset=utf-8
   Cache-Control: no-store, no-cache, must-revalidate, max-age=0
 
 /context/chats/*
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
+
+/context/*
   Content-Type: text/plain; charset=utf-8
   Cache-Control: no-store, no-cache, must-revalidate, max-age=0
 
