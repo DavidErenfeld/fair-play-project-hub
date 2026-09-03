@@ -1,0 +1,11 @@
+# Fair Play Project Hub — Phase 0 POC
+
+This deployment is a Phase 0 external context reading proof of concept.
+
+All content is synthetic POC data. It is not canonical Fair Play documentation.
+
+AI readers should use these files:
+
+- /context/project.md
+- /context/current-status.md
+- /context/chats/test.md

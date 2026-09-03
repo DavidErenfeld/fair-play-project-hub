@@ -1,0 +1,5 @@
+private-docs/**
+local-data/**
+.env
+.env.*
+!.env.example

@@ -1,0 +1,9 @@
+# Fair Play Project Hub — Phase 0 POC
+# Static publish only. No build command, functions, or authentication.
+# Production branch: main (select "main" as the production branch in the Netlify Git integration).
+
+[build]
+  publish = "site"
+
+[context.production]
+  publish = "site"

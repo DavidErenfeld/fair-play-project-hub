@@ -1,0 +1,7 @@
+# Indexing is prevented via X-Robots-Tag and meta robots.
+# Do not block /context or /llms.txt. Direct reading must remain possible.
+
+User-agent: *
+Allow: /
+Allow: /context/
+Allow: /llms.txt
